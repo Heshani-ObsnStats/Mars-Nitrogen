@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pieris"
+  given-names: "Heshani"
+  orcid: "https://orcid.org/0009-0005-1039-1548"
+- family-names: "Jakosky"
+  given-names: "Bruce"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Mars Nitrogen Evolution Model"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-06-06
+url: "https://github.com/Heshani-ObsnStats/Mars-Nitrogen"
