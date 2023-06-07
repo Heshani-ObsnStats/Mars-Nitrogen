@@ -6,9 +6,9 @@ authors:
   orcid: "https://orcid.org/0009-0005-1039-1548"
 - family-names: "Jakosky"
   given-names: "Bruce"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0002-0758-9976"
 title: "Mars Nitrogen Evolution Model"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.8015247
 date-released: 2023-06-06
 url: "https://github.com/Heshani-ObsnStats/Mars-Nitrogen"
