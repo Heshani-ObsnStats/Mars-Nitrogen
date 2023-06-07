@@ -2,6 +2,10 @@
 
 --If you use any or all parts of the codes provided in this repository, please attribute it to me, Heshani Pieris--
 
+**CO2 Evolution Script**
+
+  Allows you to plot CO2 decay through time linearly or in a power-law function. This is incorporated into the main script file to allow simultaneous CO2 evolution.
+
 **Figure 9 Script - Nitrogen Evolution** 
 
   This script allows you to input any initial N2 budget (in molecules) and any initial CO2 budget (in mbar) and output the N2 evolution and 15N/14N enrichment plots   with time (from 4 Gya to present-day). 
